@@ -14,6 +14,9 @@ Attitude Adjustment 12.09 release which was the latest stable release. I set
 up IPv4 connectivity, Wifi and Ethernet. *IMPORTANT* when later on upgrading to
 Bleeding Edge the luci webinterface will NOT be installed by default so you
 must activate SSH connection to the router BEFORE you upgrade.
+
+(The Barrier Breaker installation might enable SSH during configuration if you
+have forgotten to do that but I havn't confirmed that that's the case.
 ```
 
 1. Log in to the web interface for your router.
