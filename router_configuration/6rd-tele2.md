@@ -19,9 +19,11 @@ must activate SSH connection to the router BEFORE you upgrade.
 have forgotten to do that but I havn't confirmed that that's the case.
 ```
 
+### Installation of 6rd package
 1. Log in to the web interface for your router.
 2. Go to System -> Software
 3. If needed update package list.
 4. In the text field "Download and install package" write "6rd" and press OK.
-5. A short console log will show up and show the progress. Aftewards "6rd" will
+5. A short console log will show up and show the progress. Afterwards "6rd" will
 show in the list of "Installed Packages".
+![Installation GUI of 6rd through Luci the OpenWRT web interface](./figures/6rd-bb-installation.png)
