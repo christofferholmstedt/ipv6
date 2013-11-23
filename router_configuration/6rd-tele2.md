@@ -1,5 +1,5 @@
-How to use OpenWRT Barrier Breaker r38886 for 6rd
-=================================================
+6rd with OpenWRT Barrier Breaker r38886
+=======================================
 This guide shows how to configure OpenWRT Barrier Breaker r38886 / Luci
 Trunk (svn-r9934) for 6rd. This was tested the 23rd of November 2013 with the
 ISP Tele2 in Sweden.
